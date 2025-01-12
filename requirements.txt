@@ -1,0 +1,4 @@
+psutil
+tk  # If using Tkinter, included by default
+GPUtil
+matplotlib
