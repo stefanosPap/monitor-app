@@ -128,7 +128,7 @@ root = tk.Tk()
 root.title("Interactive PC Monitor")
 root.geometry("1000x1000")
 root.configure(bg="#1E1E1E")
-root.iconphoto(True, tk.PhotoImage(file="/home/stefanos/Desktop/specs.png"))  # Update with the path to your icon
+root.iconphoto(True, tk.PhotoImage(file="specs.png"))  # Update with the path to your icon
 
 # Title
 title_label = tk.Label(root, text="Interactive PC Monitor", font=("Helvetica", 20, "bold"), bg="#1E1E1E", fg="white")
