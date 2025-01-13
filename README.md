@@ -34,4 +34,6 @@ Make sure you have the following installed on your system:
    ```bash
    python3 monitor_pc.py
 
-![alt text](https://github.com/stefanosPap/monitor-app/tree/main/monitor_pc.png)
+### **Example Output**
+
+![alt text](https://github.com/stefanosPap/monitor-app/blob/main/monitor_pc.png)
