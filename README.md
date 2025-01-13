@@ -19,12 +19,13 @@ Make sure you have the following installed on your system:
 ### **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/monitor-app.git
+   git clone https://github.com/stefanosPap/monitor-app.git
 2. Navigate to the project directory:
    cd monitor-app
 
 ### **How to Run**
 
-1. OPen a terminal.
+1. Open a terminal.
 2. Run the following command:
+   ```bash
    python3 monitor_pc.py
