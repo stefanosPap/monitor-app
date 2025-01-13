@@ -33,3 +33,5 @@ Make sure you have the following installed on your system:
 2. Run the following command:
    ```bash
    python3 monitor_pc.py
+
+![alt text](https://github.com/stefanosPap/monitor-app/tree/main/monitor_pc.png)
