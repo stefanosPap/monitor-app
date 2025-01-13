@@ -21,8 +21,12 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/stefanosPap/monitor-app.git
 2. Navigate to the project directory:
+   ```bash
    cd monitor-app
-
+4. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
 ### **How to Run**
 
 1. Open a terminal.
